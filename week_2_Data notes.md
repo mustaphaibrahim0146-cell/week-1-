@@ -1,11 +1,9 @@
 \# Data notes 
 
 
-
 \*\*Week 2 Deliverable.\*\* GeoDev Lab Africa, Cohort one.
 
 Author: Mustapha Ibrahim
-
 
 
 what i downloaded, where it came from, what is in it, and what is wrong with it.
